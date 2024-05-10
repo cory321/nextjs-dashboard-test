@@ -1,6 +1,5 @@
 import '@/app/ui/global.css';
 import { inter } from '@/app/ui/fonts';
-import { Lusitana } from 'next/font/google';
 
 export default function RootLayout({
   children,
